@@ -22,6 +22,7 @@ The following features are planned in future releases:
 
 * Support dates and datetimes
 * Support factors
+* Support logical data types
 * Support variable labels
 * Support value labels
 
