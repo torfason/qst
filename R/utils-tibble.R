@@ -1,4 +1,4 @@
-#' Load the tibble package to ensure awareness of tibbles.
+#' Load package for awareness of tidy tables.
 #'
 #' See \code{tibble::\link[tibble:tibble]{tibble}} for details.
 #'

@@ -20,7 +20,7 @@ Filtering from disk (as shown in the last line) is reasonably fast (typically mu
 
 The following features are planned in future releases:
 
-* Support dates and datetimes
+* Support dates
 * Support factors
 * Support logical data types
 * Support variable labels

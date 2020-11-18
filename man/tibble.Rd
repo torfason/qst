@@ -2,7 +2,7 @@
 % Please edit documentation in R/utils-tibble.R
 \name{tibble}
 \alias{tibble}
-\title{Load the tibble package to ensure awareness of tibbles.}
+\title{Load package for awareness of tidy tables.}
 \description{
 See \code{tibble::\link[tibble:tibble]{tibble}} for details.
 }
