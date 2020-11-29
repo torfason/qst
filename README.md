@@ -18,12 +18,16 @@ Filtering from disk (as shown in the last line) is reasonably fast (typically mu
 
 ### Road map
 
-The following features are planned in future releases:
+The following features are implemented in the development version:
 
-* Support dates
+* Support variable labels
+* Support dates and datetimes
+  * Note that time-zone support has not been tested
+
+The following features are planned in the future:
+
 * Support factors
 * Support logical data types
-* Support variable labels
 * Support value labels
 
 If you are using `qst` and would like a specific feature to be implemented, either from the road map or another feature, the simplest way to request it is by opening an issue.
