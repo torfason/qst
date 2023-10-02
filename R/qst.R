@@ -16,7 +16,7 @@
 #' @md
 #' @docType package
 #' @name qst
-NULL
+"_PACKAGE"
 
 
 # An environment to store some global package configuration.

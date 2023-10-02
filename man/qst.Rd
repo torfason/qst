@@ -3,6 +3,7 @@
 \docType{package}
 \name{qst}
 \alias{qst}
+\alias{qst-package}
 \title{Store Tables in SQL Database}
 \description{
 This package provides functions for quickly writing (and reading)
